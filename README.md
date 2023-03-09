@@ -1,2 +1,1 @@
-# PrepCourse-H
-Repo de prueba
+Este es un proyecto de prueba de repositorio
